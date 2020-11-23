@@ -1,0 +1,2 @@
+set-requesttracing-configuration --enabled=true --dynamic=true
+bootstrap-requesttracing
